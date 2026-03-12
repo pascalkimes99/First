@@ -1,2 +1,2 @@
-# First
+# mini-project
 Workshop esmt
